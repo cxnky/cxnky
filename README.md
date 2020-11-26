@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 November, 2020 - 24 November, 2020
+Week: 18 November, 2020 - 25 November, 2020
 
 C#       4 hrs 43 mins   ███████████░░░░░░░░░░░░░░   43.67 % 
 Go       2 hrs 39 mins   ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
