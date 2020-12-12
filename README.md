@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 December, 2020 - 10 December, 2020
+Week: 04 December, 2020 - 11 December, 2020
 
 C#       4 hrs 43 mins   ███████████░░░░░░░░░░░░░░   43.46 % 
 Go       2 hrs 39 mins   ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
