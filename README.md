@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 December, 2020 - 05 January, 2021
+Week: 30 December, 2020 - 06 January, 2021
 
 C#       4 hrs 43 mins   ███████████░░░░░░░░░░░░░░   43.46 % 
 Go       2 hrs 39 mins   ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
