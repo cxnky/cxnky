@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 February, 2021 - 17 February, 2021
+Week: 11 February, 2021 - 18 February, 2021
 
 C#       4 hrs 43 mins   ███████████░░░░░░░░░░░░░░   43.46 % 
 Go       2 hrs 39 mins   ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
