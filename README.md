@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 March, 2021 - 16 March, 2021
+Week: 10 March, 2021 - 17 March, 2021
 
 C#       20 hrs 58 mins  ██████████████████▒░░░░░░   73.16 % 
 Other    3 hrs 32 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
