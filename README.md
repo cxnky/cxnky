@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 May, 2021 - 27 May, 2021
+Week: 21 May, 2021 - 28 May, 2021
 
 JavaScript   49 mins         ███████████████████████░░   91.64 % 
 SCSS         3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
