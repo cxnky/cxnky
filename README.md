@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 July, 2021 - 01 August, 2021
+Week: 27 July, 2021 - 02 August, 2021
 
 C#      2 hrs 35 mins   █████████████▒░░░░░░░░░░░   52.96 % 
 Go      1 hr 11 mins    ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
