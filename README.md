@@ -5,7 +5,7 @@
 [![wakatime](https://wakatime.com/badge/user/1c39c599-5497-41b9-a5be-2c4676e7fd23.svg)](https://wakatime.com/@1c39c599-5497-41b9-a5be-2c4676e7fd23)
 <!--START_SECTION:waka-->
 ```text
-Week: 11 February, 2022 - 17 February, 2022
+Week: 12 February, 2022 - 18 February, 2022
 
 Total: 3 hrs 23 mins
 
