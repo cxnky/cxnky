@@ -6,10 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 March 2022 - To: 27 March 2022
-
-Go     8 mins          █████████████████████▒░░░   85.99 %
-HTML   1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
