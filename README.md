@@ -6,9 +6,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 April 2022 - To: 25 April 2022
+From: 19 April 2022 - To: 26 April 2022
 
-HTML   0 secs          █████████████████████████   100.00 %
+PHP          34 mins         █████████░░░░░░░░░░░░░░░░   36.40 %
+JavaScript   34 mins         █████████░░░░░░░░░░░░░░░░   36.08 %
+HTML         26 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.17 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
