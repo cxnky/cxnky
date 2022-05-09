@@ -6,11 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 April 2022 - To: 07 May 2022
+From: 01 May 2022 - To: 08 May 2022
 
-Go       57 mins         ████████████████████████▒   97.99 %
-JSON     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Go   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
