@@ -6,11 +6,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 May 2022 - To: 18 May 2022
+From: 12 May 2022 - To: 19 May 2022
 
 Bash         13 mins         ██████████████████████░░░   87.56 %
 JavaScript   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
-Go           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
