@@ -6,7 +6,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 04 June 2022 - To: 11 June 2022
+
+YAML   18 mins         █████████████████████████   100.00 %
+Go     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
