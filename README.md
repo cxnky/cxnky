@@ -6,14 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 July 2022 - To: 18 July 2022
-
-HTML         42 mins         ██████████████▓░░░░░░░░░░   58.91 %
-JavaScript   13 mins         █████░░░░░░░░░░░░░░░░░░░░   19.50 %
-XML          10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.62 %
-Text         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
