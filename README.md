@@ -6,7 +6,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 22 July 2022 - To: 29 July 2022
+
+C#           6 hrs 57 mins   █████████████████░░░░░░░░   68.25 %
+Other        2 hrs 41 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.43 %
 ```
 
 <!--END_SECTION:waka-->
