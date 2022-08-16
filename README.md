@@ -6,10 +6,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 July 2022 - To: 29 July 2022
+From: 08 August 2022 - To: 15 August 2022
 
-C#           6 hrs 57 mins   █████████████████░░░░░░░░   68.25 %
-Other        2 hrs 41 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.43 %
+C#           5 hrs 46 mins   ███████████████▒░░░░░░░░░   61.89 %
+Other        3 hrs 16 mins   ████████▓░░░░░░░░░░░░░░░░   35.03 %
 ```
 
 <!--END_SECTION:waka-->
