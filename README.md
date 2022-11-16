@@ -6,10 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 November 2022 - To: 13 November 2022
+From: 08 November 2022 - To: 14 November 2022
 
-C#           6 hrs 34 mins   ██████████▒░░░░░░░░░░░░░░   41.69 %
-Other        3 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   19.82 %
+C#           2 hrs 56 mins   ███████░░░░░░░░░░░░░░░░░░   27.67 %
+Blazor       1 hr 52 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.68 %
+Other        1 hr 42 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.03 %
 ```
 
 <!--END_SECTION:waka-->
