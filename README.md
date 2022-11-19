@@ -6,11 +6,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 November 2022 - To: 16 November 2022
+From: 11 November 2022 - To: 17 November 2022
 
-C#           2 hrs 10 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.87 %
-Blazor       1 hr 52 mins    █████░░░░░░░░░░░░░░░░░░░░   19.72 %
-Other        1 hr 17 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
+C#           1 hr 14 mins    ██████░░░░░░░░░░░░░░░░░░░   24.17 %
+Vue.js       1 hr 11 mins    ██████░░░░░░░░░░░░░░░░░░░   23.37 %
+HTML         52 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.21 %
+Other        39 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 %
 ```
 
 <!--END_SECTION:waka-->
