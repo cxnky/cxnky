@@ -6,12 +6,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 December 2022 - To: 08 December 2022
+From: 03 December 2022 - To: 09 December 2022
 
-JavaScript   14 mins         ███████████▒░░░░░░░░░░░░░   44.96 %
-Go           9 mins          ███████▒░░░░░░░░░░░░░░░░░   29.55 %
-CSS          7 mins          ██████░░░░░░░░░░░░░░░░░░░   23.49 %
-JSON         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Go           23 mins         ████████████▓░░░░░░░░░░░░   51.03 %
+JavaScript   14 mins         ███████▓░░░░░░░░░░░░░░░░░   31.25 %
+CSS          7 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.33 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
