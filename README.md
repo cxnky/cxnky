@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 December 2022 - To: 09 December 2022
+From: 04 December 2022 - To: 10 December 2022
 
 Go           23 mins         ████████████▓░░░░░░░░░░░░   51.03 %
 JavaScript   14 mins         ███████▓░░░░░░░░░░░░░░░░░   31.25 %
