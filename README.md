@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 January 2023 - To: 01 February 2023
+From: 27 January 2023 - To: 02 February 2023
 
 Go           50 mins         ████████████▒░░░░░░░░░░░░   49.09 %
 JavaScript   36 mins         ████████▓░░░░░░░░░░░░░░░░   35.00 %
