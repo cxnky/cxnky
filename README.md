@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 March 2023 - To: 07 March 2023
+From: 02 March 2023 - To: 08 March 2023
 
 Go           3 hrs 2 mins    ███████████████████████▓░   94.60 %
 JSON         9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
