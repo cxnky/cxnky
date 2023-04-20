@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 April 2023 - To: 17 April 2023
+From: 11 April 2023 - To: 18 April 2023
 
 PHP          3 hrs 29 mins   ████████████████▒░░░░░░░░   65.83 %
 JavaScript   1 hr 6 mins     █████▒░░░░░░░░░░░░░░░░░░░   20.97 %
