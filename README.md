@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 April 2023 - To: 04 May 2023
+From: 28 April 2023 - To: 05 May 2023
 
 Go           29 mins         ███████████████░░░░░░░░░░   60.20 %
 PHP          9 mins          █████░░░░░░░░░░░░░░░░░░░░   19.93 %
