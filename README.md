@@ -6,9 +6,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 May 2023 - To: 23 May 2023
+From: 17 May 2023 - To: 24 May 2023
 
-No activity tracked
+Rust    2 hrs 46 mins   ████████████████████████░   95.86 %
+TOML    6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+JSON    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
