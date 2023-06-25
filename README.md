@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 June 2023 - To: 22 June 2023
+From: 16 June 2023 - To: 23 June 2023
 
 JavaScript   2 hrs 24 mins   ████████████▒░░░░░░░░░░░░   48.98 %
 Rust         1 hr 45 mins    █████████░░░░░░░░░░░░░░░░   35.85 %
