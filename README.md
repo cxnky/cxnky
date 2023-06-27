@@ -6,13 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 June 2023 - To: 24 June 2023
+From: 18 June 2023 - To: 25 June 2023
 
-JavaScript   2 hrs 23 mins   █████████████░░░░░░░░░░░░   51.98 %
-Rust         1 hr 29 mins    ████████░░░░░░░░░░░░░░░░░   32.38 %
-PHP          38 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 %
-TOML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-XML          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Rust   45 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
