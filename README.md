@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 March 2025 - To: 07 April 2025
+From: 01 April 2025 - To: 08 April 2025
 
-JavaScript                 7 hrs 30 mins   ███████████████░░░░░░░░░░   59.38 %
-Go                         2 hrs 22 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.80 %
-Git Config                 51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
-Bash                       48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
-Python                     39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+JavaScript                 5 hrs 59 mins   █████████████▓░░░░░░░░░░░   54.02 %
+Go                         2 hrs 22 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.41 %
+Git Config                 51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+Bash                       48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+Python                     37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
 ```
 
 <!--END_SECTION:waka-->
