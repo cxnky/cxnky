@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 June 2025 - To: 01 July 2025
+From: 25 June 2025 - To: 02 July 2025
 
-Go            3 hrs 21 mins   █████████████░░░░░░░░░░░░   52.13 %
-TypeScript    1 hr 27 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.70 %
-JavaScript    1 hr 8 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.65 %
-YAML          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-JSON          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Go             3 hrs 27 mins   ██████████░░░░░░░░░░░░░░░   39.99 %
+TypeScript     3 hrs 3 mins    █████████░░░░░░░░░░░░░░░░   35.42 %
+JavaScript     1 hr 22 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.92 %
+Python         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Svelte         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 ```
 
 <!--END_SECTION:waka-->
