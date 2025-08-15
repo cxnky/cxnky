@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2025 - To: 12 August 2025
+From: 06 August 2025 - To: 13 August 2025
 
-TypeScript   1 hr 38 mins    █████████▓░░░░░░░░░░░░░░░   38.17 %
-Go           1 hr 33 mins    █████████░░░░░░░░░░░░░░░░   36.33 %
-Svelte       1 hr 2 mins     ██████░░░░░░░░░░░░░░░░░░░   24.17 %
-XML          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+TypeScript   1 hr 33 mins    █████████▓░░░░░░░░░░░░░░░   38.59 %
+Go           1 hr 12 mins    ███████▓░░░░░░░░░░░░░░░░░   30.13 %
+Svelte       34 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.34 %
+JavaScript   26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
+XML          12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
 ```
 
 <!--END_SECTION:waka-->
