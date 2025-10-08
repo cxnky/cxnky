@@ -6,11 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2025 - To: 05 October 2025
+From: 29 September 2025 - To: 06 October 2025
 
-Go           36 mins         ████████████████████████▒   97.05 %
-HTML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Python       1 hr 39 mins    ███████████▒░░░░░░░░░░░░░   45.98 %
+JavaScript   1 hr 1 min      ███████░░░░░░░░░░░░░░░░░░   28.38 %
+Go           36 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.99 %
+Text         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+Bash         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
 ```
 
 <!--END_SECTION:waka-->
