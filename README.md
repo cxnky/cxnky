@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2025 - To: 24 October 2025
+From: 18 October 2025 - To: 25 October 2025
 
 Go           2 hrs 37 mins   ████████████▒░░░░░░░░░░░░   49.41 %
 C#           57 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.06 %
