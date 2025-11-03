@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2025 - To: 31 October 2025
+From: 25 October 2025 - To: 01 November 2025
 
 TypeScript   2 hrs 14 mins   ████████████▓░░░░░░░░░░░░   50.68 %
 JavaScript   1 hr 11 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.80 %
