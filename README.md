@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2025 - To: 11 November 2025
+From: 06 November 2025 - To: 12 November 2025
 
-TypeScript   1 hr 41 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.71 %
-C#           1 hr 29 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.76 %
-Python       42 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
-JSON         36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
-JavaScript   33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
+TypeScript   1 hr 41 mins    ██████░░░░░░░░░░░░░░░░░░░   23.46 %
+C#           1 hr 36 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.25 %
+Python       42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
+JSON         36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
+JavaScript   31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
 ```
 
 <!--END_SECTION:waka-->
