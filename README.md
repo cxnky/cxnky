@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2025 - To: 29 November 2025
+From: 24 November 2025 - To: 30 November 2025
 
-TypeScript   1 hr 26 mins    █████████░░░░░░░░░░░░░░░░   35.86 %
-Bash         34 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.47 %
-Text         33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 %
-Markdown     26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
-Python       22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
+Text        29 mins         ████████░░░░░░░░░░░░░░░░░   32.04 %
+CSV         21 mins         ██████░░░░░░░░░░░░░░░░░░░   23.39 %
+Markdown    13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 %
+Python      12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
+Batchfile   9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
 ```
 
 <!--END_SECTION:waka-->
