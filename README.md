@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 November 2025 - To: 03 December 2025
+From: 28 November 2025 - To: 04 December 2025
 
-Text         29 mins         ██████░░░░░░░░░░░░░░░░░░░   24.08 %
-TypeScript   28 mins         ██████░░░░░░░░░░░░░░░░░░░   23.60 %
-CSV          21 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.58 %
-Python       12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
-Batchfile    9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+TypeScript   28 mins         ██████████████░░░░░░░░░░░   55.87 %
+Text         7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
+JavaScript   6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
+Markdown     5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
+Batchfile    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
 ```
 
 <!--END_SECTION:waka-->
