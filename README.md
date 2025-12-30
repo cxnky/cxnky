@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2025 - To: 27 December 2025
+From: 22 December 2025 - To: 28 December 2025
 
-Rust             3 hrs 1 min     ███████░░░░░░░░░░░░░░░░░░   28.14 %
-Bash             1 hr 31 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
-TypeScript       1 hr 14 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
-Go               1 hr 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
-C#               1 hr 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
+Rust             2 hrs 18 mins   █████████▒░░░░░░░░░░░░░░░   37.41 %
+TypeScript       1 hr 14 mins    █████░░░░░░░░░░░░░░░░░░░░   20.22 %
+Markdown         28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
+JSON             24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+SQL              16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
 ```
 
 <!--END_SECTION:waka-->
