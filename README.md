@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 January 2026 - To: 06 February 2026
+From: 01 February 2026 - To: 07 February 2026
 
-TypeScript     1 hr 17 mins    ████████▒░░░░░░░░░░░░░░░░   33.64 %
-C#             1 hr 9 mins     ███████▒░░░░░░░░░░░░░░░░░   29.99 %
-Markdown       28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 %
-Bash           17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
-SQL            11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+TypeScript     1 hr 29 mins    ████████░░░░░░░░░░░░░░░░░   32.39 %
+C#             55 mins         █████░░░░░░░░░░░░░░░░░░░░   20.25 %
+Rust           37 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
+Markdown       28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
+JavaScript     17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
 ```
 
 <!--END_SECTION:waka-->
