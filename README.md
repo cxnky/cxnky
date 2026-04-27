@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 April 2026 - To: 24 April 2026
+From: 18 April 2026 - To: 25 April 2026
 
-TypeScript   2 hrs 40 mins         ████████████▓░░░░░░░░░░░░   50.96 %
-JavaScript   40 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 %
-Other        37 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
-Prisma       16 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
-TSConfig     13 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+TypeScript   2 hrs 19 mins         █████████████████▓░░░░░░░   70.82 %
+Other        13 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
+Prisma       9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
+SQL          8 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+Go           6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
 ```
 
 <!--END_SECTION:waka-->
